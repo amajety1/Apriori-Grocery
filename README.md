@@ -21,9 +21,8 @@
     - sklearn.
     - Pandas.
     - numpy.
-    - seaborn
     - matplotlib.
-    - datetime.
+
 
 ## 3. Data<a name="data"></a> 
 
